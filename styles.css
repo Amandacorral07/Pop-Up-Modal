@@ -94,9 +94,10 @@ form button:hover{
   background-color: aliceblue;
   margin: 15% auto;
   padding: 2rem;
-  border: 1px solid #777;
+  border: 1px solid aliceblue;
   text-align: center;
   animation: slide ease .8s;
+  border-radius: 5px;
 }
 
 @keyframes slide {
